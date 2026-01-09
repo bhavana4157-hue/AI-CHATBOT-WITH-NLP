@@ -27,3 +27,5 @@ Overall, this chatbot project teaches fundamental skills for building interactiv
 
 *OUTPUT*:
 
+<img width="1790" height="871" alt="Image" src="https://github.com/user-attachments/assets/2bfd7689-871c-4e3f-828b-f66a1970b144" />
+
